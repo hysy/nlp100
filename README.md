@@ -1,2 +1,3 @@
 # nlp100
-Pythonの練習
+http://www.cl.ecei.tohoku.ac.jp/nlp100/
+ぬるぽ
