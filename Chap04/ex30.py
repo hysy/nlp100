@@ -1,5 +1,6 @@
 # http://taku910.github.io/mecab/#usage-tools とかを見ると
 # 表層形\t品詞,品詞細分類1,品詞細分類2,品詞細分類3,活用型,活用形,原形,読み,発音
+# の用になっている
 
 fn = 'neko.txt.mecab'
 
