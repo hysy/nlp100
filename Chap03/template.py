@@ -30,9 +30,9 @@ def getTemplate(text):
     return ret
 
 
-
-text = load.load_text(fn, title)
-print (getTemplate(text))
+if __name__ == "__main__":
+    text = load.load_text(fn, title)
+    print (getTemplate(text))
 
 
 
